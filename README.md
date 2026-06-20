@@ -2,7 +2,7 @@
 
 This repository contains a high‑performance C++ implementation of the adaptive Mann‑inexact solver with Anderson acceleration for nonlinear Volterra integral equations with one‑sided Lipschitz kernels, as described in the paper:
 
-> Edem, I. D., Udoaka, O. G., Akpakwa, J. I., [Collaborator]. (2026).  
+> Edem, I. D., Udoaka, O. G., Essien, K. (2026).  
 > *A Computationally Efficient Fixed‑Point Framework for Nonlinear Volterra Integral Equations...*
 
 ## Dependencies
